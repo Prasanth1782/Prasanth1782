@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **MERN, DSA, AWS**
 
 - 📫 How to reach me **tutaprasanth@gmail.com**
 
